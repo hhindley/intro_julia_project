@@ -9,7 +9,7 @@ This repository introduces ODE modelling in Julia through practical examples: a 
 
 ## Quick Start
 
-Clone the repository:
+Clone the repository to work with the code on your own machine:
 ```bash
 git clone git@github.com:hhindley/intro_julia_project.git
 ```
